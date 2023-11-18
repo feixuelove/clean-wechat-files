@@ -1,0 +1,4 @@
+path: "C:\\Users\\[用户名]\\Documents\\WeChat Files\\[微信ID]\\FileStorage\\MsgAttach"
+days: 60
+interval: 1h
+log_file: "run.log"
